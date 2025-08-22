@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="8" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-22T16:06:38 IST" name="BstackDemoSuite" finished-at="2025-08-22T16:09:47 IST" duration-ms="189394">
+    <groups>
+    </groups>
+    <test started-at="2025-08-22T16:06:38 IST" name="BstackdemoTest" finished-at="2025-08-22T16:09:47 IST" duration-ms="189394">
+      <class name="com.Nopcommerce.test.Carttest">
+        <test-method is-config="true" signature="load_prop()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:06:38 IST" name="load_prop" finished-at="2025-08-22T16:06:38 IST" duration-ms="158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- load_prop -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:06:38 IST" name="setup" finished-at="2025-08-22T16:06:44 IST" duration-ms="6092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setuppages(java.lang.reflect.Method)[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:06:44 IST" name="setuppages" finished-at="2025-08-22T16:06:44 IST" duration-ms="12" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Nopcommerce.test.Carttest.addToCartButton()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuppages -->
+        <test-method signature="addToCartButton()[pri:1, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:06:44 IST" name="addToCartButton" finished-at="2025-08-22T16:06:44 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:06:44 IST" name="tearDown" finished-at="2025-08-22T16:06:44 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:06:44 IST" name="setup" finished-at="2025-08-22T16:06:51 IST" duration-ms="7058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setuppages(java.lang.reflect.Method)[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:06:51 IST" name="setuppages" finished-at="2025-08-22T16:06:51 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Nopcommerce.test.Carttest.addToCartButtonwoSignin() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuppages -->
+        <test-method signature="addToCartButtonwoSignin()[pri:2, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:06:51 IST" name="addToCartButtonwoSignin" finished-at="2025-08-22T16:06:54 IST" duration-ms="2256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartButtonwoSignin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:06:54 IST" name="tearDown" finished-at="2025-08-22T16:06:54 IST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:06:54 IST" name="setup" finished-at="2025-08-22T16:07:00 IST" duration-ms="6229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setuppages(java.lang.reflect.Method)[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:07:00 IST" name="setuppages" finished-at="2025-08-22T16:07:00 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Nopcommerce.test.Carttest.addToCartButtonwithSignin() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuppages -->
+        <test-method signature="addToCartButtonwithSignin()[pri:3, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:07:00 IST" name="addToCartButtonwithSignin" finished-at="2025-08-22T16:07:05 IST" duration-ms="5004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartButtonwithSignin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:07:05 IST" name="tearDown" finished-at="2025-08-22T16:07:05 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:07:05 IST" name="setup" finished-at="2025-08-22T16:07:11 IST" duration-ms="5927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setuppages(java.lang.reflect.Method)[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:07:11 IST" name="setuppages" finished-at="2025-08-22T16:07:11 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Nopcommerce.test.Carttest.addToCartButtonwithSigninpdt() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuppages -->
+        <test-method signature="addToCartButtonwithSigninpdt()[pri:4, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:07:11 IST" name="addToCartButtonwithSigninpdt" finished-at="2025-08-22T16:07:14 IST" duration-ms="3093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartButtonwithSigninpdt -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:07:14 IST" name="tearDown" finished-at="2025-08-22T16:07:14 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:07:14 IST" name="setup" finished-at="2025-08-22T16:07:21 IST" duration-ms="7059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setuppages(java.lang.reflect.Method)[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:07:21 IST" name="setuppages" finished-at="2025-08-22T16:07:21 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Nopcommerce.test.Carttest.addToCartButtonwithSigninforAll() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuppages -->
+        <test-method signature="addToCartButtonwithSigninforAll()[pri:5, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:07:21 IST" name="addToCartButtonwithSigninforAll" finished-at="2025-08-22T16:08:18 IST" duration-ms="56667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartButtonwithSigninforAll -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:18 IST" name="tearDown" finished-at="2025-08-22T16:08:18 IST" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:18 IST" name="setup" finished-at="2025-08-22T16:08:23 IST" duration-ms="5261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="setuppages(java.lang.reflect.Method)[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:23 IST" name="setuppages" finished-at="2025-08-22T16:08:23 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Nopcommerce.test.Carttest.quantityAddProduct() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuppages -->
+        <test-method signature="quantityAddProduct()[pri:6, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:23 IST" name="quantityAddProduct" finished-at="2025-08-22T16:08:25 IST" duration-ms="1946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quantityAddProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:25 IST" name="tearDown" finished-at="2025-08-22T16:08:25 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:25 IST" name="setup" finished-at="2025-08-22T16:08:32 IST" duration-ms="6520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="quantityMinusProduct()[pri:7, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:32 IST" name="quantityMinusProduct" finished-at="2025-08-22T16:08:34 IST" duration-ms="2224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quantityMinusProduct -->
+        <test-method is-config="true" signature="setuppages(java.lang.reflect.Method)[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:32 IST" name="setuppages" finished-at="2025-08-22T16:08:32 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Nopcommerce.test.Carttest.quantityMinusProduct() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuppages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:34 IST" name="tearDown" finished-at="2025-08-22T16:08:34 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:34 IST" name="setup" finished-at="2025-08-22T16:08:40 IST" duration-ms="6098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="removeitems()[pri:8, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:40 IST" name="removeitems" finished-at="2025-08-22T16:08:42 IST" duration-ms="2227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeitems -->
+        <test-method is-config="true" signature="setuppages(java.lang.reflect.Method)[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:40 IST" name="setuppages" finished-at="2025-08-22T16:08:40 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Nopcommerce.test.Carttest.removeitems() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuppages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:42 IST" name="tearDown" finished-at="2025-08-22T16:08:43 IST" duration-ms="44" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:43 IST" name="setup" finished-at="2025-08-22T16:08:49 IST" duration-ms="6356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateCartTotal()[pri:8, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:49 IST" name="validateCartTotal" finished-at="2025-08-22T16:09:47 IST" duration-ms="58419" status="FAIL">
+          <exception class="java.lang.NumberFormatException">
+            <message>
+              <![CDATA[empty String]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NumberFormatException: empty String
+at java.base/jdk.internal.math.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1842)
+at java.base/jdk.internal.math.FloatingDecimal.parseDouble(FloatingDecimal.java:110)
+at java.base/java.lang.Double.parseDouble(Double.java:792)
+at com.Nopcommerce.pages.Cartpage.getDisplayedSubtotal(Cartpage.java:112)
+at com.Nopcommerce.test.Carttest.validateCartTotal(Carttest.java:216)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NumberFormatException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCartTotal -->
+        <test-method is-config="true" signature="setuppages(java.lang.reflect.Method)[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:08:49 IST" name="setuppages" finished-at="2025-08-22T16:08:49 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Nopcommerce.test.Carttest.validateCartTotal() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setuppages -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Nopcommerce.test.Carttest@4983159f]" started-at="2025-08-22T16:09:47 IST" name="tearDown" finished-at="2025-08-22T16:09:47 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Nopcommerce.test.Carttest -->
+    </test> <!-- BstackdemoTest -->
+  </suite> <!-- BstackDemoSuite -->
+</testng-results>

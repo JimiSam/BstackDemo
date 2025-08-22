@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BstackDemoSuite">
+<test name="BstackdemoTest">
+
+<classes>
+<class name="com.Nopcommerce.test.HomepageTest"></class>
+<class name="com.Nopcommerce.test.RegisterTest"></class>
+<class name="com.Nopcommerce.test.ProductTest"></class>
+<class name="com.Nopcommerce.test.Carttest"></class>
+
+</classes>
+</test>
+
+</suite>
