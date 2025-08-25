@@ -10,13 +10,15 @@
     <artifactId>selenium-java</artifactId>
     <version>4.34.0</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/org.testng/testng -->
-<dependency>
+  <dependency>
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
-    <version>7.11.0</version>
-    <scope>test</scope>
+    <version>7.10.2</version>
+    <scope>compile</scope>
 </dependency>
+
+
+
 
 <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
 <dependency>
