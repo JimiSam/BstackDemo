@@ -27,7 +27,7 @@ public class HomepageTest extends Baseclass{
 	    public void testLoginPageTitle() {
 
 		 	
-		 	String expectedTitle = "nopCommerce demo store. Login";
+		 	String expectedTitle = "StackDemo";
 		    
 		    String actualTitle = homepage.titleverify();
 		    ExtentManager.logStep("Page Title: " + actualTitle);
